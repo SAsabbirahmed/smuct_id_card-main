@@ -46,7 +46,7 @@ class Home extends StatelessWidget {
                         child: ClipRRect(
                           borderRadius: BorderRadius.circular(100),
                           child: const Image(
-                            image: AssetImage("assets/images/shishir.jpg"),
+                            image: AssetImage("assets/images/Mubata.jpg"),
                             fit: BoxFit.cover,
                             height: 150,
                             width: 145,
@@ -70,19 +70,19 @@ class Home extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        "Gopal Chandra Shil",
+                        "Md. Mubarak Hossain",
                       ),
                       Text(
-                        "ID: 201071056",
+                        "ID: 201076001",
                       ),
                       Text(
-                        "REG. NO. : 201754524",
+                        "REG. NO. : 201753914",
                       ),
                       Text(
                         "Dept. of Computer Science & Engineering (B.Sc.CSE)",
                       ),
                       Text(
-                        "Blood Group : AB+",
+                        "Blood Group : B+",
                       ),
                     ],
                   )),
