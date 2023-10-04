@@ -46,7 +46,7 @@ class Home extends StatelessWidget {
                         child: ClipRRect(
                           borderRadius: BorderRadius.circular(100),
                           child: const Image(
-                            image: AssetImage("assets/images/Mubata.jpg"),
+                            image: AssetImage("assets/images/Mubarak.jpg"),
                             fit: BoxFit.cover,
                             height: 150,
                             width: 145,
